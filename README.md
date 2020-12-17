@@ -2,7 +2,7 @@
 Programas interagindo por meio de portas COM.
 
 ## --- Requisitos ---
-1. Ter o Dev-C++ instalado, ou qualquer outro editor de texto com devido suporte a linguagem C; https://sourceforge.net/projects/orwelldevcpp/
+1. Ter o Dev-C++ instalado ou qualquer outro editor de texto com devido suporte a linguagem C; https://sourceforge.net/projects/orwelldevcpp/
 2. Programa de emulação de portas seriais.
 
 ### --- Tutorial ---
