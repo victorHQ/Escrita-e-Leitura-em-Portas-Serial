@@ -16,14 +16,15 @@
 </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=&message=C&color=f0a5ca&style=for-the-badge&logo=c"/>
+  <img src="https://img.shields.io/static/v1?label=&message=C&color=A8B9CC&style=for-the-badge&logo=c&logoColor=gray"/>
 </p>
 
 <h2 id="project" align="center">
   Projeto :technologist:
 </h2>
 <p align="center">
-  Esse projeto advem de uma atividade acadêmica da matéria de "Programação de Softwares Básicos", que tinha o intuito de ensinar sobre as portas seriais. Esse programa pode possuir uma versão que lê uma string escrita pelo usuário e imprime uma resposta em texto, similar a um Chatterbot.
+  Esse projeto advem de uma atividade acadêmica da matéria de "Programação de Softwares Básicos", que tinha o intuito de ensinar sobre as portas seriais. Esse programa pode
+  possuir uma versão que lê uma string escrita pelo usuário e imprime uma resposta em texto, similar a um Chatterbot.
 </p>
 
 <h2 id="install" align="center">
@@ -31,8 +32,8 @@
 </h2>
 
 <ol> 
-  <li>Ter o Dev-C++ instalado ou qualquer outro editor de texto com devido suporte a linguagem C: https://sourceforge.net/projects/orwelldevcpp/</li><br>
-  <li>Baixe e instale o simulador de portas serial "Virtual Serial Port Emulator" na versão "Standard" ou qualquer outro similar: https://www.virtual-serial-port.org/pt/products/virtual-com-port-emulator/</li><br>
+  <li>Instalar o Dev-C++ ou qualquer outro editor com devido suporte a linguagem C: https://sourceforge.net/projects/orwelldevcpp/</li><br>
+  <li>Baixe e instale o simulador de portas serial "Virtual Serial Port Emulator" na versão "Standard" ou qualquer outro similar: https://www.virtual-serialport.org/pt/products/virtual-com-port-emulator/</li><br>
   <p align="center">
     <img src="https://user-images.githubusercontent.com/34111368/102551420-326dd000-409e-11eb-9864-69616650a4f3.png">
   </p>
