@@ -10,7 +10,6 @@
  <a href="#license">Licença</a>
 </p>
 
-<br>
 <h2 id="tecnologias" align="center">
   Tecnologias :computer: 
 </h2>
